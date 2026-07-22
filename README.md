@@ -43,7 +43,7 @@ I am a passionate Full Stack Developer and Construction Technology student from 
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
 
-  <a href="https://[www.instagram.com](https://www.instagram.com/3rd_born_mimi/)//" target="_blank">
+  <a href="https://www.instagram.com/3rd_born_mimi///" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </p>

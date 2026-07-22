@@ -11,36 +11,11 @@ Full Stack Developer | Tech Enthusiast
 I am a passionate Full Stack Developer and Construction Technology student from Rwanda with a strong interest in building innovative digital solutions that solve real-world challenges. I enjoy developing modern, scalable web applications using technologies such as JavaScript, TypeScript, Next.js, NestJS, Spring Boot, and PostgreSQL. My current focus is **BuildConnect Rwanda**, a platform designed to connect clients, contractors, engineers, architects, suppliers, and skilled workers within the construction industry. I am committed to continuous learning, writing clean and efficient code, and leveraging technology to create meaningful impact in my community and beyond.
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Frontend
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-![NextJS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
-
----
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-
----
-
-### Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,java,spring,postgres,mysql,git,github,vscode,figma,postman&perline=17" />
+</p>
 ---
 
 ## 📊 GitHub Stats

@@ -28,10 +28,25 @@ I am a passionate Full Stack Developer and Construction Technology student from 
 
 ---
 
-## 🌍 Connect With Me
+## 🌐 Connect with Me
 
-- LinkedIn:www.linkedin.com/in/ihimbazwe-umuhire-mireille-b35a45398
-- Email: umuhiremireille7@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/ihimbazwe-umuhire-mireille-b35a45398" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:umuhiremireille7@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+
+  <a href="https://github.com/Mireille250" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+
+  <a href="https://[www.instagram.com](https://www.instagram.com/3rd_born_mimi/)//" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+</p>
 
 ---
 

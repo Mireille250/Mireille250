@@ -6,7 +6,7 @@ Full Stack Developer | Tech Enthusiast
 
 ---
 
-## 👩‍💻 About Me
+<h2 style="color:#ff69b4;">About Me</h2>
 
 I am a passionate Full Stack Developer and Construction Technology student from Rwanda with a strong interest in building innovative digital solutions that solve real-world challenges. I enjoy developing modern, scalable web applications using technologies such as JavaScript, TypeScript, Next.js, NestJS, Spring Boot, and PostgreSQL. My current focus is **BuildConnect Rwanda**, a platform designed to connect clients, contractors, engineers, architects, suppliers, and skilled workers within the construction industry. I am committed to continuous learning, writing clean and efficient code, and leveraging technology to create meaningful impact in my community and beyond.
 ---

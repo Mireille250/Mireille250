@@ -59,8 +59,8 @@ Full Stack Developer | Tech Enthusiast
 
 ## 🌍 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-- Email: YOUR EMAIL
+- LinkedIn:www.linkedin.com/in/ihimbazwe-umuhire-mireille-b35a45398
+- Email: umuhiremireille7@gmail.com
 
 ---
 

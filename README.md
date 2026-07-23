@@ -14,8 +14,7 @@ I am a passionate Full Stack Developer and from Rwanda with a strong interest in
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,java,spring,
-    postgres,git,github,vscode,figma,postman&perline=17" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,java,spring,postgres,git,github,vscode,figma,postman&perline=17" />
 </p>
 ---
 
